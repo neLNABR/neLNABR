@@ -2,7 +2,7 @@
 
 💻 **EVM Blockchain Engineer** | 🐍 **Python Developer** | 🧠 Experienced Web3 Builder
 
-![Tech GIF](https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif)
+![Tech GIF](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 ---
 
